@@ -1,2 +1,2 @@
 # BOJ
-Beakjoon Online Judge
+Beakjoon Online Judge solve using js
